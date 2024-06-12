@@ -1,4 +1,4 @@
-## Currently developing the [Paper Design System](https://github.com/Opensource-Paper)
+Currently developing the [Paper Design System](https://github.com/Opensource-Paper)
 
 <!--
 **GreenestGoat/GreenestGoat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
