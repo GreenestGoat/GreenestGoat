@@ -1,5 +1,5 @@
 <!--# Hey There! 👋-->
-Currently developing the [Mase JS](https://github.com/masejs/masejs).
+Currently developing [Mase JS](https://github.com/masejs/masejs).
 
 [![](https://data.jsdelivr.com/v1/package/npm/masejs/badge)](https://www.jsdelivr.com/package/npm/masejs)
 
