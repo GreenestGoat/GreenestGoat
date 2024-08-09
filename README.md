@@ -1,7 +1,7 @@
 <!--# Hey There! 👋-->
 Currently developing [Mase JS](https://github.com/masejs/masejs).
 
-[![](https://data.jsdelivr.com/v1/package/npm/masejs/badge)](https://www.jsdelivr.com/package/npm/masejs)
+[![](https://data.jsdelivr.com/v1/package/npm/open-emojify/badge)](https://www.jsdelivr.com/package/npm/open-emojify)
 
 <p align="center">
  <img width="1000" src="https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake"/>
