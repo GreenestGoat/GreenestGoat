@@ -1,5 +1,5 @@
 <!--# Hey There! 👋-->
-Currently developing [Mase JS](https://github.com/masejs/masejs).
+Currently developing [Emojify](https://github.com/open-emojify/emojify).
 
 [![](https://data.jsdelivr.com/v1/package/npm/open-emojify/badge)](https://www.jsdelivr.com/package/npm/open-emojify)
 
