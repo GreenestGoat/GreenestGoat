@@ -1,19 +1,37 @@
-<!--# Hey There! 👋-->
-Currently developing [Emojify](https://github.com/open-emojify/emojify).
+<h1 align="left">Hey 👋 What's up?</h1>
 
-[![](https://data.jsdelivr.com/v1/package/npm/open-emojify/badge)](https://www.jsdelivr.com/package/npm/open-emojify)
+###
 
-<p align="center">
- <img width="1000" src="https://github.com/sammorozov/sammorozov/raw/main/assets/github-snake.svg" alt="snake"/>
-</p>
+<p align="left">My name is Fin and I'm a Frontend Developer from the UK.</p>
 
-<!--[![SkillIcons](https://skillicons.dev/icons?i=js,html,css,nodejs,vite,vue,linux,docker,figma)](https://skillicons.dev)<br/>
+###
 
-<details>
- <summary>Github Snake 🐍</summary> 
- <picture decoding="async" loading="lazy">
-  <source media="(prefers-color-scheme: light)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=greenestgoat&theme=summer">
-  <source media="(prefers-color-scheme: dark)" srcset="https://pixel-profile.vercel.app/api/github-stats?username=greenestgoat&screen_effect=true&theme=blue_chill">
-  <img alt="github stats" src="https://pixel-profile.vercel.app/api/github-stats?username=greenestgoat&theme=summer">
- </picture>
-</details>-->
+<h2 align="left">About me</h2>
+
+###
+
+<p align="left">✨ Creating bugs since 2020<br>🎲 Fun fact: I Also produce music<br>🚧 Currently Developing: Emojify</p>
+
+###
+
+<h2 align="left">I code with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="40" alt="vuejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"  />
+</div>
+
+###
