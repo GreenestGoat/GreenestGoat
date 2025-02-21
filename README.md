@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>🎲 Fun fact: I Also produce music<br>🚧 Currently Developing: vueframe</p>
+<p align="left">✨ Creating bugs since 2020<br>🎲 Fun fact: I Also produce music<br>🚧 Currently Developing: embedz</p>
 
 ###
 
